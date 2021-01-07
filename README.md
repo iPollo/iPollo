@@ -5,7 +5,7 @@
 
 💡 &nbsp;I am a lover of technology and coffee, also known as Henry or iPollo (pronounced Apolo).\
 🎓 &nbsp;I'm currently studying Computer Science, specifically focusing on Software Engineering.\
-✍️ &nbsp;I've been working with Audiovisual Production and Graphic Design, but primarily in the development of games and desktop applications.\
+✍️ &nbsp;I've been working with Audiovisual Production, Graphic Design and mainly with development of games and desktop applications.\
 📄 &nbsp;In my free time i am usually working in Music Production, or in Hackathons looking to contribute with my knowledge across the world.\
 ✉️ &nbsp;You can contact me through my email whenever you want for a project, question or even a coffee..\
 
@@ -14,7 +14,7 @@
 ### 🛠 &nbsp;Work Technologies
 
 ![Java](https://img.shields.io/badge/-Java-5c4196?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C++](https://img.shields.io/badge/-C++-5c4196?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C++](https://img.shields.io/badge/-C++-5c4196?style=flat&logo=C%2B%2B&logoColor=736fad)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-5c4196?style=flat&logo=C%2B%2B&logoColor=ce72fc)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-5c4196?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
@@ -42,7 +42,7 @@
 
 <p align="center">
 <a href="https://github.com/iPollo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iPollo&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true%22 />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iPollo&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true%22/>
 </a>
 </p>
 
