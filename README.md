@@ -44,10 +44,9 @@
 
 ### 🤝 &nbsp;Connect with Me
 
-![(https://img.shields.io/badge/-Henry-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-selau-de-oliveira-3096911a2/)&nbsp;
 <p align="left">
-<a href="https://www.linkedin.com/in/henrique-selau-de-oliveira-3096911a2/"><img src="https://img.shields.io/badge/-Henry-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.google.com/intl/pt_br/gmail/about/"><img src="https://img.shields.io/badge/-hso.softwares@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/henriqueselau_s_"><img src="https://img.shields.io/badge/-@henriqueselau__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/henrique-selau-de-oliveira-3096911a2/"><img src="https://img.shields.io/badge/-Henry-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>\
+<a href="https://www.google.com/intl/pt_br/gmail/about/"><img src="https://img.shields.io/badge/-hso.softwares@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>\
+<a href="https://www.instagram.com/henriqueselau_s_"><img src="https://img.shields.io/badge/-@henriqueselau__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>\
 <a href="https://twitter.com/HenriqueSelau_"><img src="https://img.shields.io/badge/-@HenriqueSelau__-7cd4fc?style=flat-square&logo=Twitter&logoColor=white"/></a>
 </p>
