@@ -40,7 +40,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-[![iPollos's Github Stats](https://github-readme-stats.vercel.app/api?username=iPollo&show_icons=true&theme=synthwave&bg_color=5c4196)](https://github.com/iPollo)
+[![iPollos's Github Stats](https://github-readme-stats.vercel.app/api?username=iPollo&show_icons=true&theme=synthwave&bg_color=5c4196&text_color=white)](https://github.com/iPollo)
 
 ### 🤝 &nbsp;Connect with Me
 
