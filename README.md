@@ -1,7 +1,7 @@
 
 ## 👋 &nbsp;Hey there! I'm Henrique Selau de Oliveira
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨 &nbsp;About Me
 
 💡 &nbsp;I am a lover of technology and coffee, also known as Henry or iPollo (pronounced Apolo).\
 🎓 &nbsp;I'm currently studying Computer Science, specifically focusing on Software Engineering.\
@@ -18,7 +18,7 @@
 ![C#](https://img.shields.io/badge/-CSharp-5c4196?style=flat&logo=C%2B%2B&logoColor=ce72fc)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-5c4196?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
-###  &nbsp;Technologies of interest
+### :open_file_folder: &nbsp;Technologies of interest
 
 ![Python](https://img.shields.io/badge/-Python-5c4196?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-5c4196?style=flat&logo=javascript)&nbsp;
