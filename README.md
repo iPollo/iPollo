@@ -40,11 +40,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/iPollo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iPollo&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true/>
-</a>
-</p>
+[![iPollos's Github Stats](https://github-readme-stats.vercel.app/api?username=iPollo)](https://github.com/iPollo)
 
 ### 🤝 &nbsp;Connect with Me
 
