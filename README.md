@@ -14,7 +14,7 @@
 ### 🛠 &nbsp;Work Technologies
 
 ![Java](https://img.shields.io/badge/-Java-5c4196?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C++](https://img.shields.io/badge/-C++-5c4196?style=flat&logo=C%2B%2B&logoColor=736fad)&nbsp;
+![C++](https://img.shields.io/badge/-C++-5c4196?style=flat&logo=C%2B%2B&logoColor=94bf7c)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-5c4196?style=flat&logo=C%2B%2B&logoColor=ce72fc)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-5c4196?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
@@ -45,8 +45,8 @@
 ### 🤝 &nbsp;Connect with Me
 
 [![lkd](https://img.shields.io/badge/-Henry-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-selau-de-oliveira-3096911a2)\
-[![lkd](https://img.shields.io/badge/-hso.softwares@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](https://www.google.com/intl/pt_br/gmail/about/)\
-[![lkd](https://img.shields.io/badge/-@henriqueselau__-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/henriqueselau_s_)\
-[![lkd](https://img.shields.io/badge/-@HenriqueSelau__-7cd4fc?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/HenriqueSelau_)\
+[![gm](https://img.shields.io/badge/-hso.softwares@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](https://www.google.com/intl/pt_br/gmail/about/)\
+[![is](https://img.shields.io/badge/-@henriqueselau__-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/henriqueselau_s_)\
+[![tw](https://img.shields.io/badge/-@HenriqueSelau__-30beff?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/HenriqueSelau_)
 
 
