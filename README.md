@@ -9,7 +9,7 @@
 📄 &nbsp;In my free time i am usually working in Music Production, or in Hackathons looking to contribute with my knowledge across the world.\
 ✉️ &nbsp;You can contact me through my email whenever you want for a project, question or even a coffee..\
 
-<img alt="Night Coding" src="https://i.imgur.com/FdZSe2D.png" align="right"/>
+<img alt="Night Coding" src="https://i.imgur.com/OLezjeM.png" align="right"/>
 
 ### 🛠 &nbsp;Work Technologies
 
