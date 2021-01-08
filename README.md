@@ -29,7 +29,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-5c4196?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-5c4196?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5c4196?style=flat&logo=visual-studio&logoColor=00eeff)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-5c4196?style=flat&logo=intellij-idea)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-5c4196?style=flat&logo=intellij-idea&logoColor=262626)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-5c4196?style=flat&logo=eclipse-ide&logoColor=18003d)&nbsp;\
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-5c4196?style=flat&logo=sublime-text)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-5c4196?style=flat&logo=adobe-illustrator)&nbsp;
