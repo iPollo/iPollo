@@ -13,7 +13,7 @@
 
 ### :triangular_ruler: &nbsp;Work Technologies
 
-![Java](https://img.shields.io/badge/-Java-5c4196?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Java](https://img.shields.io/badge/-Java-5c4196?style=flat&logo=Java&logoColor=ff9c00)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-5c4196?style=flat&logo=C%2B%2B&logoColor=94bf7c)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-5c4196?style=flat&logo=C%2B%2B&logoColor=ce72fc)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-5c4196?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
