@@ -13,30 +13,30 @@
 
 ### :triangular_ruler: &nbsp;Work Technologies
 
-![Java](https://img.shields.io/badge/-Java-262626?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C++](https://img.shields.io/badge/-C++-262626?style=flat&logo=C%2B%2B&logoColor=94bf7c)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-262626?style=flat&logo=C%2B%2B&logoColor=ce72fc)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-262626?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Java](https://img.shields.io/badge/-Java-c7c7c7?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C++](https://img.shields.io/badge/-C++-c7c7c7?style=flat&logo=C%2B%2B&logoColor=94bf7c)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-c7c7c7?style=flat&logo=C%2B%2B&logoColor=ce72fc)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-c7c7c7?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 ### :open_file_folder: &nbsp;Technologies of interest
 
-![Python](https://img.shields.io/badge/-Python-262626?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-262626?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-c7c7c7?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-c7c7c7?style=flat&logo=javascript)&nbsp;
 
 ### 🛠 &nbsp;Tools
 
-![Git](https://img.shields.io/badge/-Git-262626?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-262626?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-262626?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-262626?style=flat&logo=visual-studio)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-262626?style=flat&logo=intellij-idea)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-262626?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;\
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-262626?style=flat&logo=sublime-text)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-262626?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-262626?style=flat&logo=adobe-photoshop)&nbsp;\
-![InDesign](https://img.shields.io/badge/-InDesign-262626?style=flat&logo=adobe-indesign)&nbsp;
-![Audacity](https://img.shields.io/badge/-Audacity-262626?style=flat&logo=audacity)&nbsp;
-![VEGAS](https://img.shields.io/badge/-Vegas%20PRO-262626?style=flat&logo=youtube)&nbsp;
+![Git](https://img.shields.io/badge/-Git-c7c7c7?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-c7c7c7?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-c7c7c7?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-c7c7c7?style=flat&logo=visual-studio)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-c7c7c7?style=flat&logo=intellij-idea)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-c7c7c7?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;\
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-c7c7c7?style=flat&logo=sublime-text)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-c7c7c7?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-c7c7c7?style=flat&logo=adobe-photoshop)&nbsp;\
+![InDesign](https://img.shields.io/badge/-InDesign-c7c7c7?style=flat&logo=adobe-indesign)&nbsp;
+![Audacity](https://img.shields.io/badge/-Audacity-c7c7c7?style=flat&logo=audacity)&nbsp;
+![VEGAS](https://img.shields.io/badge/-Vegas%20PRO-c7c7c7?style=flat&logo=youtube)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
