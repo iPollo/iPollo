@@ -42,7 +42,7 @@
 
 [![iPollos's Github Stats](https://github-readme-stats.vercel.app/api?username=iPollo&show_icons=true&theme=synthwave&bg_color=4b357a&text_color=ffffff&icon_color=ac85ff)](https://github.com/iPollo)
 
-### 🤝 &nbsp;Connect with Me
+### 🤝 &nbsp;Connect with Me :)
 
 [![lkd](https://img.shields.io/badge/-Henry-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-selau-de-oliveira-3096911a2)
 [![gm](https://img.shields.io/badge/-hso.softwares@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](https://www.google.com/intl/pt_br/gmail/about/)\
