@@ -13,15 +13,19 @@
 
 ### :triangular_ruler: &nbsp;Work Technologies
 
-![Java](https://img.shields.io/badge/-Java-5c4196?style=flat&logo=Java&logoColor=ff9c00)&nbsp;
-![C++](https://img.shields.io/badge/-C++-5c4196?style=flat&logo=C%2B%2B&logoColor=94bf7c)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-5c4196?style=flat&logo=C%2B%2B&logoColor=ce72fc)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-5c4196?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![WPF](https://img.shields.io/badge/-WPF-5c4196?style=flat&logo=.net&logoColor=ffffff)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-5c4196?style=flat&logo=unity)&nbsp;
+![Java](https://img.shields.io/badge/-Java-5c4196?style=flat&logo=Java&logoColor=ff9c00)&nbsp;
+
+https://img.shields.io/badge/-JavaScript-5c4196?style=flat&logo=.net
 
 ### :open_file_folder: &nbsp;Technologies of interest
 
 ![Python](https://img.shields.io/badge/-Python-5c4196?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-5c4196?style=flat&logo=javascript)&nbsp;
+![C++](https://img.shields.io/badge/-C++-5c4196?style=flat&logo=C%2B%2B&logoColor=94bf7c)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-5c4196?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 ### 🛠 &nbsp;Tools
 
