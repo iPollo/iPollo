@@ -13,6 +13,7 @@
 
 ### :triangular_ruler: &nbsp;Work Technologies
 
+![LUA](https://img.shields.io/badge/-Lua-5c4196?style=flat&logo=lua&logoColor=1f1f1f)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-5c4196?style=flat&logo=C%2B%2B&logoColor=ce72fc)&nbsp;
 ![WPF](https://img.shields.io/badge/-WPF-5c4196?style=flat&logo=.net&logoColor=ffffff)&nbsp;
 ![XAML](https://img.shields.io/badge/-XAML-5c4196?style=flat&logo=xaml&logoColor=66cad4)&nbsp;
