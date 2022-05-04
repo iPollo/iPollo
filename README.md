@@ -13,8 +13,7 @@
 
 ### :triangular_ruler: &nbsp;Work Technologies
 
-![LUA](https://img.shields.io/badge/-Lua-5c4196?style=flat&logo=lua&logoColor=4287f5)&nbsp;![C#](https://img.shields.io/badge/-C%23-5c4196?style=flat&logo=C%2B%2B&logoColor=ce72fc)&nbsp;![WPF](https://img.shields.io/badge/-WPF-5c4196?style=flat&logo=.net&logoColor=ffffff)&nbsp;![XAML](https://img.shields.io/badge/-XAML-5c4196?style=flat&logo=xaml&logoColor=66cad4)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-5c4196?style=flat&logo=unity&logoColor=1f1f1f)&nbsp;![Java](https://img.shields.io/badge/-Java-5c4196?style=flat&logo=Java&logoColor=ff9c00)&nbsp;
+![LUA](https://img.shields.io/badge/-Lua-5c4196?style=flat&logo=lua&logoColor=4287f5)&nbsp;![C#](https://img.shields.io/badge/-C%23-5c4196?style=flat&logo=C%2B%2B&logoColor=ce72fc)&nbsp;![WPF](https://img.shields.io/badge/-WPF-5c4196?style=flat&logo=.net&logoColor=ffffff)&nbsp;![XAML](https://img.shields.io/badge/-XAML-5c4196?style=flat&logo=xaml&logoColor=66cad4)&nbsp;![Unity](https://img.shields.io/badge/-Unity-5c4196?style=flat&logo=unity&logoColor=1f1f1f)&nbsp;![Java](https://img.shields.io/badge/-Java-5c4196?style=flat&logo=Java&logoColor=ff9c00)&nbsp;
 
 ### :open_file_folder: &nbsp;Technologies of interest
 
@@ -22,18 +21,10 @@
 
 ### 🛠 &nbsp;Tools
 
-![Git](https://img.shields.io/badge/-Git-5c4196?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-5c4196?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-5c4196?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5c4196?style=flat&logo=visual-studio&logoColor=00eeff)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-5c4196?style=flat&logo=intellij-idea&logoColor=262626)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-5c4196?style=flat&logo=eclipse-ide&logoColor=18003d)&nbsp;\
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-5c4196?style=flat&logo=sublime-text)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-5c4196?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-5c4196?style=flat&logo=adobe-photoshop)&nbsp;\
-![InDesign](https://img.shields.io/badge/-InDesign-5c4196?style=flat&logo=adobe-indesign)&nbsp;
-![Audacity](https://img.shields.io/badge/-Audacity-5c4196?style=flat&logo=audacity)&nbsp;
-![VEGAS](https://img.shields.io/badge/-Vegas%20PRO-5c4196?style=flat&logo=youtube)&nbsp;
+![Git](https://img.shields.io/badge/-Git-5c4196?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-5c4196?style=flat&logo=github)&nbsp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-5c4196?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5c4196?style=flat&logo=visual-studio&logoColor=00eeff)&nbsp;![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-5c4196?style=flat&logo=intellij-idea&logoColor=262626)&nbsp;![Eclipse](https://img.shields.io/badge/-Eclipse-5c4196?style=flat&logo=eclipse-ide&logoColor=18003d)&nbsp;\
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-5c4196?style=flat&logo=sublime-text)&nbsp;![Illustrator](https://img.shields.io/badge/-Illustrator-5c4196?style=flat&logo=adobe-illustrator)&nbsp;![Photoshop](https://img.shields.io/badge/-Photoshop-5c4196?style=flat&logo=adobe-photoshop)&nbsp;\
+![InDesign](https://img.shields.io/badge/-InDesign-5c4196?style=flat&logo=adobe-indesign)&nbsp;![Audacity](https://img.shields.io/badge/-Audacity-5c4196?style=flat&logo=audacity)&nbsp;![VEGAS](https://img.shields.io/badge/-Vegas%20PRO-5c4196?style=flat&logo=youtube)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
