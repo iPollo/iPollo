@@ -13,7 +13,7 @@
 
 ### :triangular_ruler: &nbsp;Work Technologies
 
-![LUA](https://img.shields.io/badge/-Lua-5c4196?style=flat&logo=lua&logoColor=4287f5)&nbsp;![C#](https://img.shields.io/badge/-C%23-5c4196?style=flat&logo=C%2B%2B&logoColor=ce72fc)&nbsp;![C](https://img.shields.io/badge/-C-5c4196?style=flat&logo=C%2B%2B&logoColor=ce72fc)&nbsp;![WPF](https://img.shields.io/badge/-WPF-5c4196?style=flat&logo=.net&logoColor=ffffff)&nbsp;![XAML](https://img.shields.io/badge/-XAML-5c4196?style=flat&logo=xaml&logoColor=66cad4)&nbsp;![Unity](https://img.shields.io/badge/-Unity-5c4196?style=flat&logo=unity&logoColor=1f1f1f)&nbsp;![Java](https://img.shields.io/badge/-Java-5c4196?style=flat&logo=fireship&logoColor=ff9c00)&nbsp;
+![LUA](https://img.shields.io/badge/-Lua-5c4196?style=flat&logo=lua&logoColor=4287f5)&nbsp;![C#](https://img.shields.io/badge/-C%23-5c4196?style=flat&logo=C%2B%2B&logoColor=ce72fc)&nbsp;![C](https://img.shields.io/badge/-C-5c4196?style=flat&logo=C%2B%2B&logoColor=ce72fc)&nbsp;![WPF](https://img.shields.io/badge/-WPF-5c4196?style=flat&logo=windowsterminal&logoColor=ffffff)&nbsp;![XAML](https://img.shields.io/badge/-XAML-5c4196?style=flat&logo=xaml&logoColor=66cad4)&nbsp;![Unity](https://img.shields.io/badge/-Unity-5c4196?style=flat&logo=unity&logoColor=1f1f1f)&nbsp;![Java](https://img.shields.io/badge/-Java-5c4196?style=flat&logo=fireship&logoColor=ff9c00)&nbsp;
 
 ### :open_file_folder: &nbsp;Technologies of interest
 
