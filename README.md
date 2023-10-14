@@ -17,7 +17,7 @@
 ![Unity](https://img.shields.io/badge/-Unity-5c4196?style=flat&logo=unity&logoColor=1f1f1f)&nbsp;![Java](https://img.shields.io/badge/-Java-5c4196?style=flat&logo=fireship&logoColor=ff9c00)&nbsp;![Godot](https://img.shields.io/badge/-Godot-5c4196?style=flat&logo=godotengine&logoColor=c2e5ff)&nbsp;
 
 
-### :open_file_folder: &nbsp;Technologies of interest
+### :open_file_folder: &nbsp;Technologies i'm Interested in
 
 ![Python](https://img.shields.io/badge/-Python-5c4196?style=flat&logo=python)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-5c4196?style=flat&logo=javascript)&nbsp;![C++](https://img.shields.io/badge/-C++-5c4196?style=flat&logo=C%2B%2B&logoColor=94bf7c)&nbsp;![CSS](https://img.shields.io/badge/-CSS-5c4196?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
