@@ -9,24 +9,22 @@
 📄 &nbsp;In my free time i'm usually working with Music Production, or in Hackathons looking to contribute with my knowledge across the world.\
 ✉️ &nbsp;You can contact me through my email whenever you want for a project, question or even a coffee...
 
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="80">
+
 <img alt="Night Coding" src="https://i.imgur.com/MfXGIDb.png" align="right"/>
 
-### :triangular_ruler: &nbsp;Work Technologies
+### :triangular_ruler: &nbsp;My Stack
 
-![LUA](https://img.shields.io/badge/-Lua-5c4196?style=flat&logo=lua&logoColor=4287f5)&nbsp;![C#](https://img.shields.io/badge/-C%23-5c4196?style=flat&logo=C%2B%2B&logoColor=ce72fc)&nbsp;![C](https://img.shields.io/badge/-C-5c4196?style=flat&logo=C%2B%2B&logoColor=ce72fc)&nbsp;![WPF](https://img.shields.io/badge/-WPF-5c4196?style=flat&logo=gnometerminal&logoColor=ffffff)&nbsp;![XAML](https://img.shields.io/badge/-XAML-5c4196?style=flat&logo=htmx&logoColor=66cad4)&nbsp;\
-![Unity](https://img.shields.io/badge/-Unity-5c4196?style=flat&logo=unity&logoColor=1f1f1f)&nbsp;![Java](https://img.shields.io/badge/-Java-5c4196?style=flat&logo=fireship&logoColor=ff9c00)&nbsp;![Godot](https://img.shields.io/badge/-Godot-5c4196?style=flat&logo=godotengine&logoColor=c2e5ff)&nbsp;
+<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="lua" /> <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="dotnet" /> <img src="https://skillicons.dev/icons?i=godot" width="48" height="48" alt="unity" /> <img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="godot" /> <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="java" />
 
 
-### :open_file_folder: &nbsp;Technologies i'm Interested in
+### :open_file_folder: &nbsp;Tech i'm Interested in
 
-![Python](https://img.shields.io/badge/-Python-5c4196?style=flat&logo=python)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-5c4196?style=flat&logo=javascript)&nbsp;![C++](https://img.shields.io/badge/-C++-5c4196?style=flat&logo=C%2B%2B&logoColor=94bf7c)&nbsp;![CSS](https://img.shields.io/badge/-CSS-5c4196?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="HTML5" />
 
-### 🛠 &nbsp;Tools
+### 🛠 &nbsp;My Tools
 
-![Git](https://img.shields.io/badge/-Git-5c4196?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-5c4196?style=flat&logo=github)&nbsp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-5c4196?style=flat&logo=educative&logoColor=007ACC)&nbsp;\
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5c4196?style=flat&logo=educative&logoColor=00eeff)&nbsp;![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-5c4196?style=flat&logo=intellij-idea&logoColor=262626)&nbsp;![Eclipse](https://img.shields.io/badge/-Eclipse-5c4196?style=flat&logo=eclipse-ide&logoColor=18003d)&nbsp;\
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-5c4196?style=flat&logo=sublime-text)&nbsp;![Illustrator](https://img.shields.io/badge/-Illustrator-5c4196?style=flat&logo=adobe-illustrator)&nbsp;![Photoshop](https://img.shields.io/badge/-Photoshop-5c4196?style=flat&logo=adobe-photoshop)&nbsp;\
-![InDesign](https://img.shields.io/badge/-InDesign-5c4196?style=flat&logo=adobe-indesign)&nbsp;![Audacity](https://img.shields.io/badge/-Audacity-5c4196?style=flat&logo=audacity)&nbsp;![VEGAS](https://img.shields.io/badge/-Vegas%20PRO-5c4196?style=flat&logo=youtube)&nbsp;
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="HTML5" /><br/> <img src="https://skillicons.dev/icons?i=sublime" width="48" height="48" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=pr" width="48" height="48" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=ae" width="48" height="48" alt="HTML5" />
 
 ### ⚙️ &nbsp;GitHub Analytics
 
