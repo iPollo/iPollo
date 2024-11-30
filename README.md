@@ -3,11 +3,11 @@
 
 ### 👨 &nbsp;About Me
 
-💡 &nbsp;I'm a lover of technology and coffee, also known as Henry or iPollo (pronounced Apolo).\
-🎓 &nbsp;I'm currently studying Electrical Engineering as a main course and carrying out separate studies on Software Engineering.\
-✍️ &nbsp;I've been working with Audiovisual Production, Graphic Design and mainly with development of games and desktop applications.\
-📄 &nbsp;In my free time i'm usually working with Music Production, or in Hackathons looking to contribute with my knowledge across the world.\
-✉️ &nbsp;You can contact me through my email whenever you want for a project, question or even a coffee...
+💡 &nbsp;I’m passionate about technology and coffee and am often referred to as Henry or iPollo (pronounced “Apollo”).\
+🎓 &nbsp;I am currently pursuing a degree in Electrical Engineering as my primary field of study while also engaging in independent studies in Software Engineering. My professional experience spans Audiovisual Production, Graphic Design, and, most prominently, the development of games and desktop applications.\
+✍️ &nbsp;My professional experience spans Audiovisual Production, Graphic Design, and, most prominently, the development of games and desktop applications.\
+📄 &nbsp;In my spare time, I immerse myself in Music Production or participate in Hackathons, striving to contribute my expertise and collaborate on innovative projects globally.\
+✉️ &nbsp;Feel free to reach out to me via email for project opportunities, questions, or even just to chat over a cup of coffee.
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="80">
 
