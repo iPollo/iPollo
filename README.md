@@ -15,7 +15,7 @@
 
 ### :triangular_ruler: &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=cs" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=cpp" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=lua" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=python" width="35" height="35" alt="lua" /> <img src="https://skillicons.dev/icons?i=java" width="35" height="35" alt="dotnet" /> <img src="https://skillicons.dev/icons?i=godot" width="35" height="35" alt="unity" /> <img src="https://skillicons.dev/icons?i=unreal" width="35" height="35" alt="godot" /> <img src="https://skillicons.dev/icons?i=dotnet" width="35" height="35" alt="java" />
+<img src="https://skillicons.dev/icons?i=cs" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=cpp" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=lua" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=python" width="35" height="35" alt="lua" /> <img src="https://skillicons.dev/icons?i=java" width="35" height="35" alt="dotnet" /> <img src="https://skillicons.dev/icons?i=godot" width="35" height="35" alt="unity" /> <img src="https://skillicons.dev/icons?i=unity" width="35" height="35" alt="godot" /> <img src="https://skillicons.dev/icons?i=dotnet" width="35" height="35" alt="java" />
 
 
 ### :open_file_folder: &nbsp;Tech i'm Interested in
