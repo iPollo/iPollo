@@ -8,7 +8,7 @@
 - My professional experience spans Audiovisual Production, Graphic Design, and, most prominently, the development of games and desktop applications.
 - In my spare time, I immerse myself in Music Production or participate in Hackathons, striving to contribute my expertise and collaborate on innovative projects globally.
 - Feel free to reach out to me via email for project opportunities, questions, or even just to chat over a cup of coffee.
-- 
+  
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="80">
 
 <img alt="Night Coding" src="https://i.imgur.com/MfXGIDb.png" align="right"/>
