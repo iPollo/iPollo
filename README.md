@@ -5,7 +5,7 @@
 
 - I’m passionate about technology and coffee and am often referred to as Henry or iPollo (pronounced “Apollo”).
 - I am currently pursuing a degree in Electrical Engineering as my primary field of study while also engaging in independent studies in Software Engineering.
-- My professional experience spans Audiovisual Production, Graphic Design, and, most prominently, the development of games and desktop applications.
+- My professional experience includes Audiovisual Production, Graphic Design, and, most notably, the development of .NET apps, games and primarily native Android mobile applications.
 - In my spare time, I immerse myself in Music Production and participate in Hackathons, striving to contribute my expertise and collaborate on innovative projects globally.
 - Feel free to reach out to me via email for project opportunities, questions, or even just to chat over a cup of coffee.
   
