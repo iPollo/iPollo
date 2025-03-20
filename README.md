@@ -28,6 +28,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+
 [![iPollos's Github Stats](https://github-readme-stats2-git-master-ipollo.vercel.app/api?username=iPollo&show_icons=true&theme=synthwave&bg_color=4b357a&text_color=ffffff&icon_color=ac85ff&include_all_commits=true&count_private=true)](https://github.com/iPollo)
 
 ### 🤝 &nbsp;Connect with Me :)
