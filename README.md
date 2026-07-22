@@ -15,12 +15,12 @@
 
 ### :triangular_ruler: &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=kotlin" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=androidstudio" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=cs" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=cpp" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=java" width="35" height="35" alt="dotnet" /> <img src="https://skillicons.dev/icons?i=lua" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=godot" width="35" height="35" alt="unity" /> <img src="https://skillicons.dev/icons?i=dotnet" width="35" height="35" alt="java" />
-
+<img src="https://skillicons.dev/icons?i=java" width="35" height="35" alt="dotnet" />  <img src="https://skillicons.dev/icons?i=angular" width="35" height="35" alt="dotnet" /> <img src="https://skillicons.dev/icons?i=spring" width="35" height="35" alt="dotnet" /> <img src="https://skillicons.dev/icons?i=aws" width="35" height="35" alt="dotnet" /> <img src="https://skillicons.dev/icons?i=hibernate" width="35" height="35" alt="dotnet" /> <img src="https://skillicons.dev/icons?i=postgres" width="35" height="35" alt="dotnet" /> <img src="https://skillicons.dev/icons?i=maven" width="35" height="35" alt="dotnet" /> <img src="https://skillicons.dev/icons?i=kotlin" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=androidstudio" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=cs" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=lua" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=godot" width="35" height="35" alt="unity" />
 
 ### :open_file_folder: &nbsp;Tech i'm Interested in
 
-<img src="https://skillicons.dev/icons?i=c" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=javascript" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=html" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=vim" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=electron" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=python" width="35" height="35" alt="lua" />
+<img src="https://skillicons.dev/icons?i=c" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=javascript" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=html" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=vim" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=electron" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=python" width="35" height="35" alt="lua" /> <img src="https://skillicons.dev/icons?i=cpp" width="35" height="35" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=dotnet" width="35" height="35" alt="java" />
+
 
 ### 🛠 &nbsp;My Tools
 
