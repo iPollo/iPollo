@@ -33,7 +33,6 @@
 
 ### 🤝 &nbsp;Connect with Me :)
 
-[![lkd](https://img.shields.io/badge/-Henry-0077B5?style=flat-square&logo=lucid&logoColor=white)](https://www.linkedin.com/in/henrique-selau-de-oliveira-3096911a2) [![gm](https://img.shields.io/badge/-hso.softwares@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](https://www.google.com/intl/pt_br/gmail/about/)\
-[![is](https://img.shields.io/badge/-@henriqueselau__-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.linkedin.com/in/henrique-selau-de-oliveira-3096911a2) [![lkd](https://img.shields.io/badge/-Portfolio-0077B5?style=flat-square&logo=htmx&logoColor=white)](portfolio-mocha-psi-57.vercel.app)
+[![lkd](https://img.shields.io/badge/-Henry-0077B5?style=flat-square&logo=lucid&logoColor=white)](https://www.linkedin.com/in/henrique-selau-de-oliveira-3096911a2) [![gm](https://img.shields.io/badge/-hso.softwares@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](https://www.google.com/intl/pt_br/gmail/about/) [![lkd](https://img.shields.io/badge/-Portfolio-0077B5?style=flat-square&logo=htmx&logoColor=white)](portfolio-mocha-psi-57.vercel.app)
 
 
